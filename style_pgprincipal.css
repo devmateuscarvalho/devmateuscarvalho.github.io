@@ -16,6 +16,10 @@
                                                 width: 100%;
                                             }
                                             
+                                            .animate__bounce {
+                                                height: 30px;
+                                            }
+                                            
                                             .imageNotebook {
                                                 position: absolute;
                                                 width: 100%;
